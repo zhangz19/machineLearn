@@ -1,5 +1,9 @@
 
 
+#+++++ codes for paper: 
+# "Evaluation of the Impacts of Hydrologic Model Calibration Methods on Predictability of Ecologically-Relevant Hydrologic Indices"
+# published in Journal of Hydrology, 2018: https://www.sciencedirect.com/science/article/pii/S0022169418305705
+
 # functions to test equivalence of paired sequences (can be irregularly spaced time series)
 # The data was extracted from the time series but specific dates were selected that are not necessarily continuous.
 
